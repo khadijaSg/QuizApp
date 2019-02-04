@@ -1,0 +1,16 @@
+C:\Users\afiqi\Desktop\QuizInC#\QuizApp\QuizApp\bin\Debug\QuizApp.exe.config
+C:\Users\afiqi\Desktop\QuizInC#\QuizApp\QuizApp\bin\Debug\QuizApp.exe
+C:\Users\afiqi\Desktop\QuizInC#\QuizApp\QuizApp\bin\Debug\QuizApp.pdb
+C:\Users\afiqi\Desktop\QuizInC#\QuizApp\QuizApp\bin\Debug\EntityFramework.dll
+C:\Users\afiqi\Desktop\QuizInC#\QuizApp\QuizApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\afiqi\Desktop\QuizInC#\QuizApp\QuizApp\bin\Debug\EntityFramework.xml
+C:\Users\afiqi\Desktop\QuizInC#\QuizApp\QuizApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\afiqi\Desktop\QuizInC#\QuizApp\QuizApp\obj\Debug\QuizApp.csprojAssemblyReference.cache
+C:\Users\afiqi\Desktop\QuizInC#\QuizApp\QuizApp\obj\Debug\QuizApp.EnterQuiz.resources
+C:\Users\afiqi\Desktop\QuizInC#\QuizApp\QuizApp\obj\Debug\QuizApp.Properties.Resources.resources
+C:\Users\afiqi\Desktop\QuizInC#\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.GenerateResource.cache
+C:\Users\afiqi\Desktop\QuizInC#\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.CoreCompileInputs.cache
+C:\Users\afiqi\Desktop\QuizInC#\QuizApp\QuizApp\obj\Debug\QuizApp.csproj.CopyComplete
+C:\Users\afiqi\Desktop\QuizInC#\QuizApp\QuizApp\obj\Debug\QuizApp.exe
+C:\Users\afiqi\Desktop\QuizInC#\QuizApp\QuizApp\obj\Debug\QuizApp.pdb
+C:\Users\afiqi\Desktop\QuizInC#\QuizApp\QuizApp\obj\Debug\QuizApp.Questions.resources
